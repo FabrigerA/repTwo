@@ -1,0 +1,13 @@
+.body{
+    height: 800px;
+    padding-left: 220px;
+    padding-top: 250px;
+}
+
+.upgrade-button{
+    display: block;
+    width: 100px;
+    height: 25px;
+}
+
+

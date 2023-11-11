@@ -1,0 +1,18 @@
+
+
+.header{
+    position:absolute;
+    height: 220px;
+    width: 1500px;
+
+}
+.header-img{
+    height: 100%;
+    background-image: url(../assets/homm3header.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: -30px;
+    border-radius: 20px;
+    margin-left:160px;
+    margin-right:160px;
+}

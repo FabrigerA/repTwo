@@ -1,0 +1,57 @@
+.sidebar{
+    position:absolute;
+    display: flex;
+    flex-direction: column;
+    row-gap: 5px;
+    width: 150px;
+    height: 1000px;
+    left: 30px;
+    top:280px;
+}
+
+.sidebar-button{
+    display:flex;
+    height: 70px;
+    width: 150px;
+}
+
+.castle-button{
+    background-image: url(../assets/town-buttons/castle-button-img.gif);
+    
+}
+.rampart-button{
+    background-image: url(../assets/town-buttons/rampart-button-img.gif);
+
+}
+.tower-button{
+    background-image: url(../assets/town-buttons/tower-button-img.gif);
+
+}
+.inferno-button{
+    background-image: url(../assets/town-buttons/inferno-button-img.gif);
+
+}
+.necropolis-button{
+    background-image: url(../assets/town-buttons/necropolis-button-img.gif);
+
+}
+.dungeon-button{
+    background-image: url(../assets/town-buttons/dungeon-button-img.gif);
+
+}
+.stronghold-button{
+    background-image: url(../assets/town-buttons/stronghold-button-img.gif);
+
+}
+.fortress-button{
+    background-image: url(../assets/town-buttons/fortress-button-img.gif);
+
+}
+.conflux-button{
+    background-image: url(../assets/town-buttons/conflux-button-img.gif);
+
+}
+.cove-button{
+    background-image: url(../assets/town-buttons/cove-button-img.gif);
+
+}
