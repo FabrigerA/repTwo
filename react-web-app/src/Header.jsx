@@ -5,7 +5,7 @@ function Header(){
     return(
     <header>
         <div class="header">
-            <div class="header-img"></div>
+            <img src={headerImg} class="header-img"></img>
         </div>  
     </header>
 

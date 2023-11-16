@@ -1,5 +1,4 @@
 import Header from './Header.jsx'
-import Footer from './Footer.jsx'
 import SideBar from './SideBar.jsx'
 import Body from './Body.jsx'
 import './styles/WebContainer.css'
@@ -11,22 +10,13 @@ function WebContainer(){
 
         <>
         <div class="web-container">
+
             <Header></Header>
             <SideBar></SideBar>
-            <Body></Body>
-            <Footer></Footer>
 
 
         </div>
-
-  
-  
         </>
-
-
-
-
-
     );
 
 }

@@ -1,0 +1,14 @@
+.video-title{
+    font-family: Roboto;
+    font-weight:bold;
+    font-size: 18px;
+    width:300px;
+    line-height:24px;
+    margin-bottom:8px;
+}
+.video-stats{
+    font-family: Arial;
+    font-size: 14px;
+    color:gray;
+    margin-top:0px;
+}

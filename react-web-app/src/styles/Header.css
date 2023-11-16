@@ -2,17 +2,16 @@
 
 .header{
     position:absolute;
-    height: 220px;
-    width: 1500px;
 
 }
 .header-img{
-    height: 100%;
-    background-image: url(../assets/homm3header.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-position-y: -30px;
-    border-radius: 20px;
-    margin-left:160px;
-    margin-right:160px;
+    width: 1150px;
+    height: 240px;
+    object-fit: cover;
+    object-position: top;
+    background-position-y: 100px;
+    border-radius: 30px;
+    padding-left:160px;
+    padding-right:160px;
+    margin-top: 10px;
 }
